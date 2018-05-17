@@ -50,7 +50,7 @@ Para nos mantermos fortes, unidos e organizados, é preciso que algumas regras e
 Prefira ![Mensagem boa](assets/mensagem-boa.png) ao invés de
 ![Mensagem ruim](assets/mensagem-ruim.png)
 
-:arrow_right: Tome cuidado com flood, ninguém gosta spam.
+:arrow_right: Tome cuidado com flood, ninguém gosta de spam.
 
 :arrow_right: Explore as reactions. Assim você evita mensagens desnecessárias.
 ![Reactions](assets/reactions.png)
