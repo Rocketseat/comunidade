@@ -7,9 +7,9 @@ A comunidade da Rocketseat é um espaço aberto focado em desenvolvimento de sof
 
 Qualquer um que respeite as [regras de comportamento](#comportamento) pode participar, independente do seu nível técnico e profissional, afinal:
 
-> Nosso objetivo é ajudar a elevar o nível de cada profissional, seja em aspectos técnicos ou não. Com isso, aumentando a qualidade dos seus times e produtos.
+> O objetivo da comunidade é ajudar a elevar o nível de cada profissional, seja em aspectos técnicos ou não, partindo do princípio de que compartilhar as experiências é a melhor forma de acelerar sua evolução como programador.
 
-Para isso, oferecemos uma forma organizada de conectar pessoas com objetivos semelhantes para que possam trocar conhecimento, experiências e dessa forma se desenvolverem.
+Para isso, oferecemos uma forma organizada de conectar pessoas com objetivos semelhantes para que possam trocar conhecimento e dessa forma potencializar seu desenvolvimento.
 
 O networking é uma das ferramentas mais poderosas. Fique à vontade para colocá-la em prática aqui.
 
@@ -82,7 +82,7 @@ Canal reservado para apresentações. Para que se mantenha um histórico organiz
 ![Reactions cumprimento](assets/cumprimento.png)
 
 #### #links
-Envie todos os links que você deseja compartilhar aqui. Seja de projetos, noticias, artigos, vídeos, tecnologias ou qualquer outro tópico que você gostaria que compartilhassem com você (bom senso sempre).
+Envie todos os links que você deseja compartilhar aqui. Seja de projetos, notícias, artigos, vídeos, tecnologias ou qualquer outro tópico que você gostaria que compartilhassem com você (bom senso sempre).
 
 Também com o objetivo de preservar um histórico organizado, evite enviar mensagens nesse canal. Ao invés disso, explore as reactions.
 
@@ -112,15 +112,15 @@ Além disso, os moderadores devem auxiliar as pessoas que possuem alguma dificul
 Basta enviar um email para [oi@rocketseat.com.br](mailto:oi@rocketseat.com.br) com o assunto `'Quero ser moderador'` respondendo as perguntas:
 * Por que você quer ser moderador?
 * Em quais horários você estaria ativo na comunidade?
-* Você possui alguma experiência com moderação?
 * Você participa de outras comunidades? Quais?
 
 ## Denúncias e sugestões
 Se você se sentiu desrespeitado ou percebeu que algum membro está descumprindo as regras de comportamento, você pode entrar em contato no privado diretamente com os moderadores ou enviar um e-mail para [oi@rocketseat.com.br](mailto:oi@rocketseat.com.br). Sugestões também são muito bem-vindas.
 
 ## Por que Discord?
-Testamos várias plataformas, rodamos por alguns meses no slack e cogitamos a possibilidade de desenvolver a nossa plataforma. No fim, optamos pelo [Discord](https://discordapp.com/features) e estes são os principais motivos:
+Optamos pelo [Discord](https://discordapp.com/features) como plataforma para a comunidade e estes são os principais motivos:
 - Totalmente gratuito
+- Histórico completo das conversas
 - Canais de voz com qualidade
 - Compartilhamento de tela
 - Permissões simples de configurar
@@ -134,7 +134,7 @@ Testamos várias plataformas, rodamos por alguns meses no slack e cogitamos a po
 - Suporte ágil e de qualidade
 
 ### Mas o Discord não é focado em jogos?
-Apesar de possuir esse foco, ele não se limita apenas aos jogos. Além disso, já está mais do que provado que ele atende muito bem nossas necessidades. Outras empresas e comunidades de devs também já utilizam a plataforma, como por exemplo o [Reactiflux](https://reactjs.org/community/support.html#reactiflux-chat).
+Apesar de possuir essa proposta, ele não se limita apenas a jogos. Outras empresas e comunidades de devs também utilizam a plataforma, como por exemplo o [Reactiflux](https://reactjs.org/community/support.html#reactiflux-chat).
 
 ## Rocketseat
 Para conhecer um pouco mais sobre a Rocketseat, acompanhe-nos nas redes sociais:
