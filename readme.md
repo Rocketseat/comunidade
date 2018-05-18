@@ -43,7 +43,7 @@ Para nos mantermos fortes, unidos e organizados, é preciso que algumas regras e
 
 :arrow_right: Não utilize `@everyone` ou `@here`. Apenas envie sua mensagem. Se for um comunicado de grande importância, peça para que um dos membros da [moderação](#quem-são) envie para você.
 
-:arrow_right: Não mencione roles ou membros de forma aleatória para obter uma resposta. Respeite o tempo de cada um e você terá sua resposta.
+:arrow_right: Não mencione roles *(grupos de usuários)* ou membros de forma aleatória para obter uma resposta. Respeite o tempo de cada um e você terá sua resposta.
 
 :arrow_right: Lembre-se que a cada mensagem os membros são notificados. Por conta disso, se esforce para enviar tudo o que deseja em uma única mensagem ao invés de dar `'enters'` a cada palavra.
 
@@ -55,6 +55,8 @@ Prefira ![Mensagem boa](assets/mensagem-boa.png) ao invés de
 :arrow_right: Explore as reactions. Assim você evita mensagens desnecessárias.
 ![Reactions](assets/reactions.png)
 
+:arrow_right: Deixe suas mensagens mais claras, objetivas e bem formatadas entendendo as [regras de formatação](discord-markdown.md) do discord.
+
 :arrow_right: Seja direto ao responder uma dúvida.
 
 :arrow_right: Seja ainda mais direto ao enviar uma dúvida. Deixe claro qual o seu problema e envie todas as informações necessárias para o entendimento da mesma.
@@ -62,6 +64,8 @@ Prefira ![Mensagem boa](assets/mensagem-boa.png) ao invés de
 :arrow_right: Todos estão aqui para compartilhar conhecimento. Dessa forma, não existem motivos para você responder uma dúvida por direct.
 
 :arrow_right: Seja gentil e empático sempre. Se uma pergunta é feita, essa deve ser respondida com respeito. Caso contrário, sua resposta não é bem-vinda. Lembre-se que o que parece ter resposta óbvia para você hoje, já foi uma dúvida no passado.
+
+:arrow_right: Não pergunte se pode pode perguntar. É comum entre os novos membros perguntas como `'posso fazer uma pergunta sobre [...]'` ou `alguém entende de [...]'`. A comunidade está aqui pra isso, seja direto ao ponto e não se acanhe. Sua pergunta certamente será respondida com muito respeito (lembre-se de utilizar o canal correto).
 
 ### Canais
 Para melhor organização dos tópicos e discussões, existem alguns canais dentro da plataforma da comunidade. Ao enviar uma mensagem, você deve entender qual o canal mais adequado.
