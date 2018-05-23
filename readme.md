@@ -17,6 +17,7 @@ Por mais que seja o foco central, a comunidade não se limita apenas em tópicos
 
 ## Sumário
 - [O que é](#sobre-a-comunidade-rocketseat)
+- [Gamificação](gamification.md)
 - [Como participar](#como-participar)
 - [Comportamento](#comportamento)
 - [Moderação](#moderação)
