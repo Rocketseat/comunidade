@@ -17,13 +17,16 @@ Por mais que seja o foco central, a comunidade não se limita apenas em tópicos
 
 ## Sumário
 - [O que é](#sobre-a-comunidade-rocketseat)
-- [Gamificação](gamification.md)
+- [Gamificação](#gamification)
 - [Como participar](#como-participar)
 - [Comportamento](#comportamento)
 - [Moderação](#moderação)
 - [Denúncias](#denúncias-e-sugestões)
 - [Por que Discord?](#por-que-discord)
 - [Rocketseat](#rocketseat)
+
+## Gamificação
+[Clique aqui](gamification.md) para entender melhor nosso sistema de gamificação.
 
 ## Como participar
 Para acessar a plataforma da comunidade, basta entrar no nosso [servidor](http://comunidade.rocketseat.com.br).
