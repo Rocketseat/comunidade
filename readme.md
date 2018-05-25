@@ -116,6 +116,7 @@ Além disso, os moderadores devem auxiliar as pessoas que possuem alguma dificul
 ### Quem são?
 * Claudio Orlandi `(Claudio Orlandi#5743)`
 * Higo Ribeiro `(Higo Ribeiro#5513)`
+* Flavio Lemes `(Flavio Lemes#8217)`
 
 ### Como se tornar um?
 Basta enviar um email para [oi@rocketseat.com.br](mailto:oi@rocketseat.com.br) com o assunto `'Quero ser moderador'` respondendo as perguntas:
