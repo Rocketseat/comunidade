@@ -21,17 +21,17 @@ Além disso, o membro com mais destaque no fechamento de cada mês receberá uma
 ![Caneca da Rocketseat](assets/canecas.jpg)
 
 ## Ranking
-O [ranking](http://comunidade.rocketseat.com.br) exibe os 50 membros mais destacados no **mês**, baseado na pontuação. Os 3 primeiros ficam distintos e o que conseguir se manter em primeiro lugar leva a premiação no fim do mês.
+O [ranking](http://comunidade.rocketseat.com.br) exibe os 30 membros mais destacados no **mês**, baseado na pontuação. Os 3 primeiros ficam distintos e o que conseguir se manter em primeiro lugar leva a premiação no fim do mês.
 
 Os pontos não são cumulativos para o ranking, ou seja, eles são zerados a cada mês.
 
-Mas é essa mesma pontuação que define o seu level, que por sua vez, nunca zera. É ele que vai mostrar que você é o vovô da comunidade :older_man:
+Mas é essa mesma pontuação que define o seu level, que por sua vez, nunca zera. É ele que vai mostrar que você é realmente relevante para a comunidade.
 
 ## Rocketbot
 
 Você já deve conhecer o Rocketbot, ele te mandou uma mensagem de boas vindas e uma breve explicação assim que você entrou na comunidade.
 
-Ele vai enviar todos os dias uma mensagem no chat da comunidade lembrando do [link do ranking](http://comunidade.rocketseat.com.br), quantos dias faltam para o fechamento e mostrando quem são os 3 membros mais destacados.
+Ele vai enviar todos os dias uma mensagem no chat da comunidade lembrando do [link do ranking](http://comunidade.rocketseat.com.br), quantos dias faltam para o fechamento e mostrando quem são os 3 membros mais destacados no mês.
 
 Além disso, quando você enviar `!rank` no privado pra ele ou em qualquer canal público, ele vai te enviar uma DM com detalhes do seu progresso e um link para visualizar o ranking.
 
