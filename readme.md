@@ -69,7 +69,7 @@ Prefira ![Mensagem boa](assets/mensagem-boa.png) ao invés de
 
 :arrow_right: Seja gentil e empático sempre. Se uma pergunta é feita, essa deve ser respondida com respeito. Caso contrário, sua resposta não é bem-vinda. Lembre-se que o que parece ter resposta óbvia para você hoje, já foi uma dúvida no passado.
 
-:arrow_right: Não pergunte se pode pode perguntar. É comum entre os novos membros perguntas como `'posso fazer uma pergunta sobre [...]'` ou `alguém entende de [...]'`. A comunidade está aqui pra isso, seja direto ao ponto e não se acanhe. Sua pergunta certamente será respondida com muito respeito (lembre-se de utilizar o canal correto).
+:arrow_right: Não pergunte se pode perguntar. É comum entre os novos membros perguntas como `'posso fazer uma pergunta sobre [...]'` ou `alguém entende de [...]'`. A comunidade está aqui pra isso, seja direto ao ponto e não se acanhe. Sua pergunta certamente será respondida com muito respeito (lembre-se de utilizar o canal correto).
 
 ### Canais
 Para melhor organização dos tópicos e discussões, existem alguns canais dentro da plataforma da comunidade. Ao enviar uma mensagem, você deve entender qual o canal mais adequado.
