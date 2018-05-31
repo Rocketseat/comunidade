@@ -3,6 +3,18 @@
 > 
 [![Rocketseat](assets/rocketseat.png)](https://rocketseat.com.br)
 
+## Sumário
+- [O que é](#o-que-é)
+- [Medium](#medium)
+- [Gamificação](#gamificação)
+- [Como participar](#como-participar)
+- [Comportamento](#comportamento)
+- [Moderação](#moderação)
+- [Denúncias](#denúncias-e-sugestões)
+- [Por que Discord?](#por-que-discord)
+- [Rocketseat](#rocketseat)
+
+## O que é
 A comunidade da Rocketseat é um espaço aberto focado em desenvolvimento de software e todo seu ecossistema.
 
 Qualquer um que respeite as [regras de comportamento](#comportamento) pode participar, independente do seu nível técnico e profissional, afinal:
@@ -15,15 +27,18 @@ O networking é uma das ferramentas mais poderosas. Fique à vontade para coloc�
 
 Por mais que seja o foco central, a comunidade não se limita apenas em tópicos relacionados com código e tecnologia, mas quaisquer outros itens que colaborem com a evolução pessoal e profissional dos membros.
 
-## Sumário
-- [O que é](#sobre-a-comunidade-rocketseat)
-- [Gamificação](#gamification)
-- [Como participar](#como-participar)
-- [Comportamento](#comportamento)
-- [Moderação](#moderação)
-- [Denúncias](#denúncias-e-sugestões)
-- [Por que Discord?](#por-que-discord)
-- [Rocketseat](#rocketseat)
+## Medium
+Entendendo o objetivo da comunidade, fica fácil entender o motivo de existir um [espaço](https://medium.com/rocketseat) para centralizar e impulsionar a divulgação das experiências, ideias e técnicas de cada membro da comunidade.
+
+Atualmente, para os devs que querem sair da zona de conforto e ir para o próximo nível, é quase um pré-requisito escrever e contribuir em comunidades. Além de mostrar seu trabalho, validar seu conhecimento e conhecer gente nova, você vai ajudar outras pessoas.
+
+Escrevendo aqui você terá um atalho, pois além de todo o suporte que a comunidade te dá, você terá um alcance muito maior por conta dos nosso seguidores.
+
+Links importantes:
+- [Medium da comunidade da Rocketseat](https://medium.com/rocketseat)
+- [Como publicar](medium/como-publicar.md)
+- [Guia do autor](medium/guia-do-autor.md)
+- [Como ajudar](medium/como-publicar.md#como-ser-um-editor)
 
 ## Gamificação
 [Clique aqui](gamification.md) para entender melhor nosso sistema de gamificação.
