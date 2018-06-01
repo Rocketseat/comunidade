@@ -8,10 +8,10 @@ Antes de descobrir como publicar no [medium da comunidade da Rocketseat](https:/
 - Seu artigo é seu, se em algum momento você quiser removê-lo da nossa publicação ou excluir, você tem total liberdade;
 - Você tem todo o apoio da comunidade para escrever e revisar seu artigo, basta pedir.
 
-> Não esqueça de dar uma olhada no nosso [guia do autor](../medium/guia-do-autor.md).
+> Não esqueça de dar uma olhada no nosso [guia do autor](https://medium.com/rocketseat/como-comecar-a-escrever-2372e36163b8). Lá você vai entender a importância de escrever, além de dicas de como começar a escrever, como estruturar seu texto e organizar suas ideias.
 
 ## Processo de revisão e aprovação
-O processo de revisão baseia-se nas regras listadas nesse documento, além de ortografia, organização e apresentação das ideias, embasamento e veracidade das informações. Ah e claro que o artigo deve ser atraente e confortável para a pessoa que o lê.
+O processo de revisão baseia-se nas regras listadas nesse documento, além de ortografia, organização e apresentação das ideias, embasamento e veracidade das informações. Ah, e claro que o artigo deve ser atraente e confortável para a pessoa que o lê.
 
 Você irá submeter seu artigo e nos comunicaremos com você caso exista alguma consideração. Caso não exista, seu artigo vai pro ar de acordo com a fila de publicações.
 

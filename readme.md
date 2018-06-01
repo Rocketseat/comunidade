@@ -32,12 +32,12 @@ Entendendo o objetivo da comunidade, fica fácil entender o motivo de existir um
 
 Atualmente, para os devs que querem sair da zona de conforto e ir para o próximo nível, é quase um pré-requisito escrever e contribuir em comunidades. Além de mostrar seu trabalho, validar seu conhecimento e conhecer gente nova, você vai ajudar outras pessoas.
 
-Escrevendo aqui você terá um atalho, pois além de todo o suporte que a comunidade te dá, você terá um alcance muito maior por conta dos nosso seguidores.
+Escrevendo aqui você terá um atalho, pois além de todo o suporte que a comunidade te dá, você terá um alcance muito maior do que se fosse criar seu próprio blog.
 
 Links importantes:
 - [Medium da comunidade da Rocketseat](https://medium.com/rocketseat)
 - [Como publicar](medium/como-publicar.md)
-- [Guia do autor](medium/guia-do-autor.md)
+- [Guia do autor](https://medium.com/rocketseat/como-comecar-a-escrever-2372e36163b8)
 - [Como ajudar](medium/como-publicar.md#como-ser-um-editor)
 
 ## Gamificação
