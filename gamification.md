@@ -11,7 +11,7 @@ Mas não pense que é só floodar com mensagens aleatórias... a pontuação é 
 
 Inclusive, se você quer se dar bem, é bom que você entenda muito bem as [regras e recomendações de comportamento](https://github.com/Rocketseat/comunidade#comportamento) :grimacing:
 
-## Premiação
+## Community Heroes
 Claro que os membros mais engajados da comunidade não podem passar batidos, então eles terão um belo destaque na nossa [página da comunidade](http://comunidade.rocketseat.com.br).
 
 Tem até um pódio lá :heart_eyes:
