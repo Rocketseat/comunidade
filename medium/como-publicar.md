@@ -11,14 +11,17 @@ Antes de descobrir como publicar no [medium da comunidade da Rocketseat](https:/
 > Não esqueça de dar uma olhada no nosso [guia do autor](https://medium.com/rocketseat/como-comecar-a-escrever-2372e36163b8). Lá você vai entender a importância de escrever, além de dicas de como começar a escrever, como estruturar seu texto e organizar suas ideias.
 
 ## Processo de revisão e aprovação
+
 O processo de revisão baseia-se nas regras listadas nesse documento, além de ortografia, organização e apresentação das ideias, embasamento e veracidade das informações. Ah, e claro que o artigo deve ser atraente e confortável para a pessoa que o lê.
 
 Você irá submeter seu artigo e nos comunicaremos com você caso exista alguma consideração. Caso não exista, seu artigo vai pro ar de acordo com a fila de publicações.
 
 ### Como ser um editor
-Caso você queira se transformar em um editor (ajudar a revisar os artigos), basta que você envie um e-mail para [oi@rocketseat.com.br](mailto:oi@rocketseat.com.br) com o assunto `Quero ser editor no medium` falando como você pode ajudar (não esqueça de enviar seu usúario do medium ou o link do seu perfil). *É necessário que você tenha posts publicados (em qualquer lugar) e nos envie como referência.*
+
+Caso você queira se transformar em um editor (ajudar a revisar os artigos), basta que você envie um e-mail para [oi@rocketseat.com.br](mailto:oi@rocketseat.com.br) com o assunto `Quero ser editor no medium` falando como você pode ajudar (não esqueça de enviar seu usúario do medium ou o link do seu perfil). _É necessário que você tenha posts publicados (em qualquer lugar) e nos envie como referência._
 
 ## Como submeter seu artigo
+
 Para que você possa adicionar seu artigo na publicação da Rocketseat no medium, é preciso que adicionemos você como escritor.
 
 Para isso, basta que você envie um e-mail para [oi@rocketseat.com.br](mailto:oi@rocketseat.com.br) com o assunto `Quero publicar no medium` (não esqueça de enviar seu usúario do medium ou o link do seu perfil).
@@ -26,7 +29,9 @@ Para isso, basta que você envie um e-mail para [oi@rocketseat.com.br](mailto:oi
 Enquanto isso, você pode escrever seu artigo como rascunho sem problema nenhum e posteriormente adicionar na nossa publicação.
 
 ## Adicionando seu artigo na publicação
+
 Quando você se tornar um escritor, você precisa seguir estes passos para adicionar seu artigo na publicação:
+
 - Acesse seu rascunho;
 - Clique nos 3 pontinhos (`...`);
 - Clique em `Add to publication`;

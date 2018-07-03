@@ -2,18 +2,19 @@ Para nossa sorte, o discord utiliza markdown. Com ele, você pode expor suas ide
 
 ## Formatação de texto
 
-- *itálicos*: \*italics\*
+- _itálicos_: \*italics\*
 - **negrito**: \*\*bold\*\*
-- ***negrito itálico***: \*\*\*bold italics\*\*\*
+- **_negrito itálico_**: \*\*\*bold italics\*\*\*
 - ~~riscado~~: \~\~strikeout\~\~
-- __sublinhado__: \_\_underline\_\_
-- __*itálico sublinhado*__: \_\_\*underline - italics\*\_\_
-- __**negrito sublinhado**__: \_\_\*\*underline bold\*\*\_\_
-- __***negrito itálico sublinhando***__: \_\_\*\*\*underline bold italics\*\*\*\_\_
+- **sublinhado**: \_\_underline\_\_
+- **_itálico sublinhado_**: \_\_\*underline - italics\*\_\_
+- ****negrito sublinhado****: \_\_\*\*underline bold\*\*\_\_
+- ****_negrito itálico sublinhando_****: \_\_\*\*\*underline bold italics\*\*\*\_\_
 
 ## Blocos
+
 Para criar blocos basta você utilizar os backticks (`)
-  
+
 ![Com apenas um, você cria um destaque no texto](assets/one-backtick.png)
 
 ![Com três, você cria um bloco](assets/three-backtick.png)

@@ -5,6 +5,7 @@ Você já deve ter [entendido](https://github.com/Rocketseat/comunidade) muito b
 Como uma forma de reconher e dar feedback para os membros mais ativos, engajar ainda mais toda a comunidade e mostrar nossa gratidão, criamos um sistema de gamificação para a comunidade :rocket:
 
 ## Como funciona
+
 É muito simples: quanto mais engajado você for, quanto mais você colaborar na construção da comunidade e na evolução dos seus membros, mais você pontua :dart:
 
 Mas não pense que é só floodar com mensagens aleatórias... a pontuação é um pouco mais inteligente do que isso :stuck_out_tongue:
@@ -12,6 +13,7 @@ Mas não pense que é só floodar com mensagens aleatórias... a pontuação é 
 Inclusive, se você quer se dar bem, é bom que você entenda muito bem as [regras e recomendações de comportamento](https://github.com/Rocketseat/comunidade#comportamento) :grimacing:
 
 ## Community Heroes
+
 Claro que os membros mais engajados da comunidade não podem passar batidos, então eles terão um belo destaque na nossa [página da comunidade](http://comunidade.rocketseat.com.br).
 
 Tem até um pódio lá :heart_eyes:
@@ -21,6 +23,7 @@ Além disso, o membro com mais destaque no fechamento de cada mês receberá uma
 ![Caneca da Rocketseat](assets/canecas.jpg)
 
 ## Ranking
+
 O [ranking](http://comunidade.rocketseat.com.br) exibe os 30 membros mais destacados no **mês**, baseado na pontuação. Os 3 primeiros ficam distintos e o que conseguir se manter em primeiro lugar leva a premiação no fim do mês.
 
 Os pontos não são cumulativos para o ranking, ou seja, eles são zerados a cada mês.
@@ -39,7 +42,7 @@ Além disso, quando você enviar `!rank` no privado pra ele ou em qualquer canal
 
 Para participar basta interagir com a comunidade, seja fazendo networking, tirando dúvidas, ajudando outras pessoas ou trocando experiências.
 
-*Lembrando que nenhum dos moderadores ou pilots participam.*
+_Lembrando que nenhum dos moderadores ou pilots participam._
 
 Agora que você já entendeu tudo, bora pontuar :rocket:
 
