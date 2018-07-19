@@ -129,9 +129,9 @@ Em casos mais complexos de serem resolvidos, os moderadores tem contato direto c
 Além disso, os moderadores devem auxiliar as pessoas que possuem alguma dificuldade com a plataforma da comunidade.
 
 ### Quem são?
-* Claudio Orlandi `(Claudio Orlandi#5743)`
-* Higo Ribeiro `(Higo Ribeiro#5513)`
 * Flavio Lemes `(Flavio Lemes#8217)`
+* João Felipe `(Evolution#2741)`
+* João Paulo `(João Paulo#2275)`
 
 ### Como se tornar um?
 Basta enviar um email para [oi@rocketseat.com.br](mailto:oi@rocketseat.com.br) com o assunto `'Quero ser moderador'` respondendo as perguntas:
