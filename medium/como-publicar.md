@@ -18,13 +18,13 @@ Você irá submeter seu artigo e nos comunicaremos com você caso exista alguma 
 
 ### Como ser um editor
 
-Caso você queira se transformar em um editor (ajudar a revisar os artigos), basta que você envie um e-mail para [oi@rocketseat.com.br](mailto:oi@rocketseat.com.br) com o assunto `Quero ser editor no medium` falando como você pode ajudar (não esqueça de enviar seu usúario do medium ou o link do seu perfil). _É necessário que você tenha posts publicados (em qualquer lugar) e nos envie como referência._
+Caso você queira se transformar em um editor (ajudar a revisar os artigos), basta que você envie um e-mail para [comunidade@rocketseat.com.br](mailto:comunidade@rocketseat.com.br) com o assunto `Quero ser editor no medium` falando como você pode ajudar (não esqueça de enviar seu usúario do medium ou o link do seu perfil). _É necessário que você tenha posts publicados (em qualquer lugar) e nos envie como referência._
 
 ## Como submeter seu artigo
 
 Para que você possa adicionar seu artigo na publicação da Rocketseat no medium, é preciso que adicionemos você como escritor.
 
-Para isso, basta que você envie um e-mail para [oi@rocketseat.com.br](mailto:oi@rocketseat.com.br) com o assunto `Quero publicar no medium` (não esqueça de enviar seu usúario do medium ou o link do seu perfil).
+Para isso, basta que você envie um e-mail para [comunidade@rocketseat.com.br](mailto:comunidade@rocketseat.com.br) com o assunto `Quero publicar no medium` (não esqueça de enviar seu usúario do medium ou o link do seu perfil).
 
 Enquanto isso, você pode escrever seu artigo como rascunho sem problema nenhum e posteriormente adicionar na nossa publicação.
 
