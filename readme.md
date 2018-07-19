@@ -1,8 +1,8 @@
 # Sobre a Comunidade Rocketseat
 
 > Uma comunidade incrível de programadores em busca do próximo nível.
->
-> [![Rocketseat](assets/rocketseat.png)](https://rocketseat.com.br)
+
+[![Rocketseat](assets/rocketseat.png)](https://rocketseat.com.br)
 
 ## Sumário
 
