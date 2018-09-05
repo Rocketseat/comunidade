@@ -175,7 +175,7 @@ Optamos pelo [Discord](https://discordapp.com/features) como plataforma para a c
 - Fácil de integrar
 - Extremamente leve
 - Interface simples e intuitiva
-- Muiti plataforma e possui versão web
+- Multi plataforma e possui versão web
 - Ferramenta em ascensão
 - Suporte ágil e de qualidade
 
