@@ -104,13 +104,15 @@ A lista dos canais está na barra lateral esquerda:
 
 Lembrando que você pode silenciar as notificações de canais que você não tem interesse clicando com o botão direito nele, seguido de `Silenciar`.
 
-#### #general
+#### #boas-vindas
 
-Canal de tópico aberto, utilizado para qualquer objetivo que não conflite com um dos outros canais.
+Canal em somente-leitura, com instruções e links importantes. Caso queira sugerir algo que considera importante ser incluso, fale com nossa equipe.
 
-Este canal também é utilizado para enviar avisos e informações importantes.
+#### #geral
 
-#### #welcome
+Canal de tópico aberto, utilizado para qualquer objetivo que não conflite com um dos outros canais. Aqui você tem a oportunidade de fazer networking com milhares de devs como você.
+
+#### #apresentações
 
 Canal reservado para apresentações. Para que se mantenha um histórico organizado é importante que se mantenham apenas as apresentações aqui (mas não esqueça de mandar aquele cumprimento caloroso por reaction).
 ![Reactions cumprimento](assets/cumprimento.png)
@@ -121,15 +123,21 @@ Envie todos os links que você deseja compartilhar aqui. Seja de projetos, notí
 
 Também com o objetivo de preservar um histórico organizado, evite enviar mensagens nesse canal. Ao invés disso, explore as reactions.
 
-#### #jobs
+#### #vagas
 
-Canal reservado para vagas. Se você está buscando ou divulgado uma vaga, o local perfeito é aqui.
+Se você está buscando ou divulgado uma vaga, o local perfeito é aqui.
 
 Seja um emprego, freelance ou mesmo a busca por um sócio ou parceiro.
 
-#### #code
+#### #ajuda
 
 Canal aberto para qualquer tópico relacionado a programação. Utilize para tirar suas dúvidas e iniciar discussões.
+
+Não esqueça de dar uma olhada nas [regras de formatação](discord-markdown.md) do discord, uma mensagem bem formatada tem mais chances de ser respondida :wink:
+
+#### anúncios
+
+Canal somente-leitura, aqui você verá anúncios importantes da Rocketseat, não vamos deixar você perder nada do que estamos aprontando.
 
 ## Moderação
 
@@ -143,11 +151,11 @@ Em casos mais complexos de serem resolvidos, os moderadores tem contato direto c
 
 Além disso, os moderadores devem auxiliar as pessoas que possuem alguma dificuldade com a plataforma da comunidade.
 
+:warning: Os moderadores não tem nenhum tipo de responsabilidade em prestar algum suporte para a Rocketseat e para os membros da comunidade ou alunos. Se um moderador auxiliar um membro nesse tipo de situação, estará farendo como um membro da comunidade. 
+
 ### Quem são?
 
 - Flavio Lemes `(Flavio Lemes#8217)`
-- João Felipe `(Evolution#2741)`
-- João Paulo `(João Paulo#2275)`
 
 ### Como se tornar um?
 
@@ -155,7 +163,6 @@ Basta enviar um email para [comunidade@rocketseat.com.br](mailto:comunidade@rock
 
 - Por que você quer ser moderador?
 - Em quais horários você estaria ativo na comunidade?
-- Você participa de outras comunidades? Quais?
 
 ## Denúncias e sugestões
 
@@ -194,5 +201,6 @@ Para conhecer um pouco mais sobre a Rocketseat, acompanhe-nos nas redes sociais:
 - [Twitter](https://twitter.com/rocketseat)
 - [Instagram](https://www.instagram.com/rocketseat_oficial)
 - [Linkedin](https://www.linkedin.com/company/rocketseat)
+- [Medium](https://medium.com/rocketseat)
 
 [Para participar da comunidade basta clicar aqui.](http://comunidade.rocketseat.com.br)
