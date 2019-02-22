@@ -70,7 +70,7 @@ Para nos mantermos fortes, unidos e organizados, é preciso que algumas regras e
 
 :arrow_right: Não utilize `@everyone` ou `@here`. Apenas envie sua mensagem. Se for um comunicado de grande importância, peça para que um dos membros da [moderação](#quem-são) envie para você.
 
-:arrow_right: Não mencione roles _(grupos de usuários)_ ou membros de forma aleatória para obter uma resposta. Respeite o tempo de cada um e você terá sua resposta.
+:arrow*right: Não mencione roles *(grupos de usuários)\_ ou membros de forma aleatória para obter uma resposta. Respeite o tempo de cada um e você terá sua resposta.
 
 :arrow_right: Lembre-se que a cada mensagem os membros são notificados. Por conta disso, se esforce para enviar tudo o que deseja em uma única mensagem ao invés de dar `'enters'` a cada palavra.
 
@@ -110,7 +110,7 @@ Canal em somente-leitura, com instruções e links importantes. Caso queira suge
 
 #### #geral
 
-Canal de tópico aberto, utilizado para qualquer objetivo que não conflite com um dos outros canais. Aqui você tem a oportunidade de fazer networking com milhares de devs como você.
+Canal de tópico aberto, utilizado para qualquer objetivo que não conflite com um dos outros canais. Utilize para falar de assuntos vários do mundo de programação, carreira e para fazer networking com milhares de devs como você.
 
 #### #apresentações
 
@@ -139,6 +139,10 @@ Não esqueça de dar uma olhada nas [regras de formatação](discord-markdown.md
 
 Canal somente-leitura, aqui você verá anúncios importantes da Rocketseat, não vamos deixar você perder nada do que estamos aprontando.
 
+#### off-topic
+
+Canal de tópico aberto, utilize para falar sobre coisas fora do objetivo principal da comunidade. Lembre-se que esse canal precisa seguir todas as regras desse documento. Caso não tenha interesse, basta clicar com o botão direito e silenciar o canal.
+
 ## Moderação
 
 Os moderadores existem para manter a ordem na casa. Garantindo que as regras e recomendações de comportamento estão sendo seguidas e intervindo de forma imparcial sempre que necessário.
@@ -151,7 +155,7 @@ Em casos mais complexos de serem resolvidos, os moderadores tem contato direto c
 
 Além disso, os moderadores devem auxiliar as pessoas que possuem alguma dificuldade com a plataforma da comunidade.
 
-:warning: Os moderadores não tem nenhum tipo de responsabilidade em prestar algum suporte para a Rocketseat e para os membros da comunidade ou alunos. Se um moderador auxiliar um membro nesse tipo de situação, estará farendo como um membro da comunidade. 
+:warning: Os moderadores não tem nenhum tipo de responsabilidade em prestar algum suporte para a Rocketseat e para os membros da comunidade ou alunos. Se um moderador auxiliar um membro nesse tipo de situação, estará farendo como um membro da comunidade.
 
 ### Quem são?
 
