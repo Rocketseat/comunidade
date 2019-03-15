@@ -155,7 +155,7 @@ Em casos mais complexos de serem resolvidos, os moderadores tem contato direto c
 
 Além disso, os moderadores devem auxiliar as pessoas que possuem alguma dificuldade com a plataforma da comunidade.
 
-:warning: Os moderadores não tem nenhum tipo de responsabilidade em prestar algum suporte para a Rocketseat e para os membros da comunidade ou alunos. Se um moderador auxiliar um membro nesse tipo de situação, estará farendo como um membro da comunidade.
+:warning: Os moderadores não tem nenhum tipo de responsabilidade em prestar algum suporte para a Rocketseat e para os membros da comunidade ou alunos. Se um moderador auxiliar um membro nesse tipo de situação, estará fazendo como um membro da comunidade.
 
 ### Quem são?
 
