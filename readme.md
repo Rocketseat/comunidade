@@ -70,7 +70,7 @@ Para nos mantermos fortes, unidos e organizados, é preciso que algumas regras e
 
 :arrow_right: Não utilize `@everyone` ou `@here`. Apenas envie sua mensagem. Se for um comunicado de grande importância, peça para que um dos membros da [moderação](#quem-são) envie para você.
 
-:arrow*right: Não mencione roles *(grupos de usuários)\_ ou membros de forma aleatória para obter uma resposta. Respeite o tempo de cada um e você terá sua resposta.
+:arrow_right: Não mencione roles _(grupos de usuários)_ ou membros de forma aleatória para obter uma resposta. Respeite o tempo de cada um e você terá sua resposta.
 
 :arrow_right: Lembre-se que a cada mensagem os membros são notificados. Por conta disso, se esforce para enviar tudo o que deseja em uma única mensagem ao invés de dar `'enters'` a cada palavra.
 
