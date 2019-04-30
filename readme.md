@@ -94,6 +94,8 @@ Prefira ![Mensagem boa](assets/mensagem-boa.png) ao invés de
 
 :arrow_right: Não pergunte se pode perguntar. É comum entre os novos membros perguntas como `'posso fazer uma pergunta sobre [...]'` ou `alguém entende de [...]'`. A comunidade está aqui pra isso, seja direto ao ponto e não se acanhe. Sua pergunta certamente será respondida com muito respeito (lembre-se de utilizar o canal correto).
 
+:arrow_right: Não é permitido o convite para outras comunidades por aqui, assim como não é permitida a criação de outros servidores com o nome da Rocketseat, já tivemos problemas com isso no passado e essas medidas são para proteger nossos membros.
+
 ### Canais
 
 Para melhor organização dos tópicos e discussões, existem alguns canais dentro da plataforma da comunidade. Ao enviar uma mensagem, você deve entender qual o canal mais adequado.
