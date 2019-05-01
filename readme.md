@@ -145,6 +145,14 @@ Canal somente-leitura, aqui você verá anúncios importantes da Rocketseat, nã
 
 Canal de tópico aberto, utilize para falar sobre coisas fora do objetivo principal da comunidade. Lembre-se que esse canal precisa seguir todas as regras desse documento. Caso não tenha interesse, basta clicar com o botão direito e silenciar o canal.
 
+### Regiões
+
+Existem diversas iniciativas na comunidade de encontros presenciais, eventos, meetups, etc., ou seja, situações que fazem sentido apenas para determinadas regiões.
+
+Com o objetivo de ajudar os membros a organizar essas iniciativas e de centralizar as informações, criamos um canal para cada estado brasileiro.
+
+Para que você tenha acesso ao canal do seu estado, é necessário que você preencha seus dados de endereço no station (nossa plataforma) e faça a integração do seu discord por lá.
+
 ## Moderação
 
 Os moderadores existem para manter a ordem na casa. Garantindo que as regras e recomendações de comportamento estão sendo seguidas e intervindo de forma imparcial sempre que necessário.

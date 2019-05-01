@@ -2,7 +2,7 @@
 
 Você já deve ter [entendido](https://github.com/Rocketseat/comunidade) muito bem quais são os objetivos da nossa comunidade. Com isso, percebeu que precisamos da colaboração de cada membro para que possamos construir juntos, uma comunidade forte e unida.
 
-Como uma forma de reconher e dar feedback para os membros mais ativos, engajar ainda mais toda a comunidade e mostrar nossa gratidão, criamos um sistema de gamificação para a comunidade :rocket:
+Como forma de reconher e dar feedback para os membros mais ativos, engajar ainda mais toda a comunidade e mostrar nossa gratidão, criamos um sistema de gamificação para a comunidade :rocket:
 
 ## Como funciona
 
@@ -11,10 +11,6 @@ Como uma forma de reconher e dar feedback para os membros mais ativos, engajar a
 Mas não pense que é só floodar com mensagens aleatórias... a pontuação é um pouco mais inteligente do que isso :stuck_out_tongue:
 
 Inclusive, se você quer se dar bem, é bom que você entenda muito bem as [regras e recomendações de comportamento](https://github.com/Rocketseat/comunidade#comportamento) :grimacing:
-
-### Medium
-
-Uma das coisas que contam pontuação (e muita), é você fazer publicações no [medium da comunidade](https://github.com/Rocketseat/comunidade#medium). Você receberá pontos assim que seu post for aprovado e publicado.
 
 ## Community Heroes
 
