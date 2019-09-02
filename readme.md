@@ -173,14 +173,14 @@ Além disso, os moderadores devem auxiliar as pessoas que possuem alguma dificul
 
 ### Como se tornar um?
 
-Basta enviar um email para [comunidade@rocketseat.com.br](mailto:comunidade@rocketseat.com.br) com o assunto `'Quero ser moderador'` respondendo as perguntas:
+Basta enviar um email para [oi@rocketseat.com.br](mailto:oi@rocketseat.com.br) com o assunto `'Quero ser moderador'` respondendo as perguntas:
 
 - Por que você quer ser moderador?
 - Em quais horários você estaria ativo na comunidade?
 
 ## Denúncias e sugestões
 
-Se você se sentiu desrespeitado ou percebeu que algum membro está descumprindo as regras de comportamento, você pode entrar em contato no privado diretamente com os moderadores ou enviar um e-mail para [comunidade@rocketseat.com.br](mailto:comunidade@rocketseat.com.br). Sugestões também são muito bem-vindas.
+Se você se sentiu desrespeitado ou percebeu que algum membro está descumprindo as regras de comportamento, você pode entrar em contato no privado diretamente com os moderadores ou enviar um e-mail para [oi@rocketseat.com.br](mailto:oi@rocketseat.com.br). Sugestões também são muito bem-vindas.
 
 ## Por que Discord?
 
