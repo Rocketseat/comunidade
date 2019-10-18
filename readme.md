@@ -7,7 +7,6 @@
 ## Sumário
 
 - [O que é](#o-que-é)
-- [Medium](#medium)
 - [Gamificação](#gamificação)
 - [Como participar](#como-participar)
 - [Comportamento](#comportamento)
@@ -29,21 +28,6 @@ Para isso, oferecemos uma forma organizada de conectar pessoas com objetivos sem
 O networking é uma das ferramentas mais poderosas. Fique à vontade para colocá-la em prática aqui.
 
 Por mais que seja o foco central, a comunidade não se limita apenas em tópicos relacionados com código e tecnologia, mas quaisquer outros itens que colaborem com a evolução pessoal e profissional dos membros.
-
-## Medium
-
-Entendendo o objetivo da comunidade, fica fácil entender o motivo de existir um [espaço](https://medium.com/rocketseat) para centralizar e impulsionar a divulgação das experiências, ideias e técnicas de cada membro da comunidade.
-
-Atualmente, para os devs que querem sair da zona de conforto e ir para o próximo nível, é quase um pré-requisito escrever e contribuir em comunidades. Além de mostrar seu trabalho, validar seu conhecimento e conhecer gente nova, você vai ajudar outras pessoas.
-
-Escrevendo aqui você terá um atalho, pois além de todo o suporte que a comunidade te dá, você terá um alcance muito maior do que se fosse criar seu próprio blog.
-
-Links importantes:
-
-- [Medium da comunidade da Rocketseat](https://medium.com/rocketseat)
-- [Como publicar](medium/como-publicar.md)
-- [Guia do autor](https://medium.com/rocketseat/como-comecar-a-escrever-2372e36163b8)
-- [Como ajudar](medium/como-publicar.md#como-ser-um-editor)
 
 ## Gamificação
 
@@ -215,6 +199,5 @@ Para conhecer um pouco mais sobre a Rocketseat, acompanhe-nos nas redes sociais:
 - [Twitter](https://twitter.com/rocketseat)
 - [Instagram](https://www.instagram.com/rocketseat_oficial)
 - [Linkedin](https://www.linkedin.com/company/rocketseat)
-- [Medium](https://medium.com/rocketseat)
 
 [Para participar da comunidade basta clicar aqui.](http://comunidade.rocketseat.com.br)
