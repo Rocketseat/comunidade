@@ -2,7 +2,7 @@
 
 Você já deve ter [entendido](https://github.com/Rocketseat/comunidade) muito bem quais são os objetivos da nossa comunidade. Com isso, percebeu que precisamos da colaboração de cada membro para que possamos construir juntos, uma comunidade forte e unida.
 
-Como forma de reconher e dar feedback para os membros mais ativos, engajar ainda mais toda a comunidade e mostrar nossa gratidão, criamos um sistema de gamificação para a comunidade :rocket:
+Como forma de reconhecer e dar feedback para os membros mais ativos, engajar ainda mais toda a comunidade e mostrar nossa gratidão, criamos um sistema de gamificação para a comunidade :rocket:
 
 ## Como funciona
 
