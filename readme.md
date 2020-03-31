@@ -80,6 +80,8 @@ Prefira ![Mensagem boa](assets/mensagem-boa.png) ao invés de
 
 :arrow_right: Não é permitido o convite para outras comunidades por aqui, assim como não é permitida a criação de outros servidores com o nome da Rocketseat, já tivemos problemas com isso no passado e essas medidas são para proteger nossos membros.
 
+:arrow_right: Não é permitido a divulgação de links de afiliados.
+
 ### Canais
 
 Para melhor organização dos tópicos e discussões, existem alguns canais dentro da plataforma da comunidade. Ao enviar uma mensagem, você deve entender qual o canal mais adequado.
@@ -125,9 +127,9 @@ Não esqueça de dar uma olhada nas [regras de formatação](discord-markdown.md
 
 Canal somente-leitura, aqui você verá anúncios importantes da Rocketseat, não vamos deixar você perder nada do que estamos aprontando.
 
-#### off-topic
+#### open-source
 
-Canal de tópico aberto, utilize para falar sobre coisas fora do objetivo principal da comunidade. Lembre-se que esse canal precisa seguir todas as regras desse documento. Caso não tenha interesse, basta clicar com o botão direito e silenciar o canal.
+Canal reservado para conversas sobre os projetos open source da Rocketseat e da comunidade! Fique a vontade para compartilhar seus projetos por aqui :wink:
 
 ### Regiões
 
