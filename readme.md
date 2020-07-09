@@ -155,14 +155,28 @@ Além disso, os moderadores devem auxiliar as pessoas que possuem alguma dificul
 
 ### Quem são?
 
-- Flavio Lemes `(Flavio Lemes#8217)`
+- Arlan Biati `(Arlan Biati#8779)`
+- Brenda Profiro `(Brenda Profiro#3382)`
+- Daniel Felizardo `(Daniel Felizardo#1470)`
+- Danilo Vieira `(Danilo Vieira#8651)`
+- Elias Gabriel `(Elias Gabriel#4421)`
+- Flávio Lemes `(Flávio Lemes#8217)`
+- Ilda Neta `(Ilda Neta#1036)`
+- Lara Azevedo `(Lara Azevedo#4587)`
+- Lara Beatriz `(Lara Beatriz#8177)`
+- Laura Beatris `(Laura Beatris#7719)`
+- Lucas Faria `(Lucas Faria#0846)`
+- Tamires Santos `(Tamires Santos#2011)`
+- Alan Neto `(Toramaru08#6895)`
+- Wemerson Jesus `(Wemerson Jesus#6235)`
+- William Amorim `(William Amorim#3813)`
+- Yan Soares `(Yan Soares#5556)`
 
 ### Como se tornar um?
 
-Basta enviar um email para [oi@rocketseat.com.br](mailto:oi@rocketseat.com.br) com o assunto `'Quero ser moderador'` respondendo as perguntas:
+Todos os moderadores também fazem parte de um grupo dentro dos bootcamps, o SpaceSquad. Então para se tornar um moderador é preciso ser um Alumni (aluno que já concluiu um bootcamp) e se destacar dentro da comunidade.
 
-- Por que você quer ser moderador?
-- Em quais horários você estaria ativo na comunidade?
+Como sempre estamos de olho, sabemos quem mais se destaca, então casualmente recrutamos novos Squaders e com isso, novos moderadores. Boa sorte!
 
 ## Denúncias e sugestões
 
