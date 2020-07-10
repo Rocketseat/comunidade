@@ -176,7 +176,7 @@ Além disso, os moderadores devem auxiliar as pessoas que possuem alguma dificul
 
 Todos os moderadores também fazem parte de um grupo dentro dos bootcamps, o SpaceSquad. Então para se tornar um moderador é preciso ser um Alumni (aluno que já concluiu um bootcamp) e se destacar dentro da comunidade.
 
-Como sempre estamos de olho, sabemos quem mais se destaca, então casualmente recrutamos novos Squaders e com isso, novos moderadores. Boa sorte!
+Como sempre estamos de olho, sabemos quem mais se destaca, então casualmente recrutamos novos integrantes para este time e com isso novos moderadores. Boa sorte!
 
 ## Denúncias e sugestões
 
