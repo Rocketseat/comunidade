@@ -10,4 +10,4 @@ Para obter, é só clicar em `Configurações do usuário`, na catraca que fica 
 Assim, você poderá visualizar seu nome usuário completo
 ![Usuário no discord](assets/discord-user2.png)
 
-É exatamente esse usuário que você precisa passar para alguém te adicionar como amigo ou preencher seu perfil no Station para fazer parte dos grupos privados :blush:
+É exatamente esse usuário que você precisa passar para alguém te adicionar como amigo ou preencher seu perfil na plataforma para fazer parte dos grupos privados :blush:
