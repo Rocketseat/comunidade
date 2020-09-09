@@ -113,7 +113,7 @@ Também com o objetivo de preservar um histórico organizado, evite enviar mensa
 
 #### #vagas
 
-Se você está buscando ou divulgado uma vaga, o local perfeito é aqui.
+Se você está buscando ou divulgando uma vaga, o local perfeito é aqui.
 
 Seja um emprego, freelance ou mesmo a busca por um sócio ou parceiro.
 
