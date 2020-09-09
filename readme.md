@@ -1,8 +1,8 @@
-# Sobre a Comunidade Rocketseat
+<img src="https://storage.googleapis.com/golden-wind/github/rocketseat-logo.svg" style="color: #121214" width="220px" />
 
-> Uma comunidade incrível de programadores em busca do próximo nível.
-
-[![Rocketseat](assets/rocketseat.png)](https://rocketseat.com.br)
+<p>
+  Uma comunidade incrível de programadores em busca do próximo nível.
+</p>
 
 ## Sumário
 
@@ -36,7 +36,7 @@ Por mais que seja o foco central, a comunidade não se limita apenas em tópicos
 ## Como participar
 
 Para acessar a plataforma da comunidade, basta entrar no nosso [servidor](http://comunidade.rocketseat.com.br).
-Lembrando que para isso, é necessário que você crie uma [conta no discord](https://discordapp.com/register).
+Lembrando que para isso, é necessário que você crie uma [conta no discord](https://discord.com/register).
 
 Acreditamos que todos, sem exceções, sempre têm algo a aprender e ensinar.
 
@@ -54,7 +54,7 @@ Para nos mantermos fortes, unidos e organizados, é preciso que algumas regras e
 
 :arrow_right: Não utilize `@everyone` ou `@here`. Apenas envie sua mensagem. Se for um comunicado de grande importância, peça para que um dos membros da [moderação](#quem-são) envie para você.
 
-:arrow_right: Não mencione roles _(grupos de usuários)_ ou membros de forma aleatória para obter uma resposta. Respeite o tempo de cada um e você terá sua resposta.
+:arrow*right: Não mencione roles *(grupos de usuários)\_ ou membros de forma aleatória para obter uma resposta. Respeite o tempo de cada um e você terá sua resposta.
 
 :arrow_right: Lembre-se que a cada mensagem os membros são notificados. Por conta disso, se esforce para enviar tudo o que deseja em uma única mensagem ao invés de dar `'enters'` a cada palavra.
 
@@ -123,13 +123,18 @@ Canal aberto para qualquer tópico relacionado a programação. Utilize para tir
 
 Não esqueça de dar uma olhada nas [regras de formatação](discord-markdown.md) do discord, uma mensagem bem formatada tem mais chances de ser respondida :wink:
 
-#### anúncios
+#### #anúncios
 
 Canal somente-leitura, aqui você verá anúncios importantes da Rocketseat, não vamos deixar você perder nada do que estamos aprontando.
 
-#### open-source
+#### #open-source
 
 Canal reservado para conversas sobre os projetos open source da Rocketseat e da comunidade! Fique a vontade para compartilhar seus projetos por aqui :wink:
+
+#### #conteúdos
+
+Canal somente-leitura, com anúncios sobre nossos novos conteúdos, para que você não
+perca nenhum vídeo no YouTube ou post novo no blog.
 
 ### Regiões
 
@@ -137,7 +142,7 @@ Existem diversas iniciativas na comunidade de encontros presenciais, eventos, me
 
 Com o objetivo de ajudar os membros a organizar essas iniciativas e de centralizar as informações, criamos um canal para cada estado brasileiro.
 
-Para que você tenha acesso ao canal do seu estado, é necessário que você preencha seus dados de endereço no station (nossa plataforma) e faça a integração do seu discord por lá.
+Para que você tenha acesso ao canal do seu estado, é necessário que você preencha seus dados de endereço [na nossa plataforma](https://app.rocketseat.com.br) e faça a integração do seu Discord por lá.
 
 ## Moderação
 
@@ -170,36 +175,34 @@ Se você se sentiu desrespeitado ou percebeu que algum membro está descumprindo
 
 ## Por que Discord?
 
-Optamos pelo [Discord](https://discordapp.com/features) como plataforma para a comunidade e estes são os principais motivos:
+Optamos pelo [Discord](https://discord.com/why-discord-is-different) como plataforma para a comunidade e estes são os principais motivos:
 
-- Totalmente gratuito
-- Histórico completo das conversas
-- Canais de voz com qualidade
-- Compartilhamento de tela
-- Permissões simples de configurar
-- Ótima organização por roles
-- Ótima organização por categorias
-- Fácil de integrar
-- Extremamente leve
-- Interface simples e intuitiva
-- Multi plataforma e possui versão web
-- Ferramenta em ascensão
-- Suporte ágil e de qualidade
-
-### Mas o Discord não é focado em jogos?
-
-Apesar de possuir essa proposta, ele não se limita apenas a jogos. Outras empresas e comunidades de devs também utilizam a plataforma, como por exemplo o [Reactiflux](https://reactjs.org/community/support.html#reactiflux-chat).
+- Totalmente gratuito;
+- Histórico completo das conversas;
+- Canais de voz com qualidade;
+- Compartilhamento de tela;
+- Permissões simples de configurar;
+- Ótima organização por roles;
+- Ótima organização por categorias;
+- Fácil de integrar;
+- Extremamente leve;
+- Interface simples e intuitiva;
+- Multi plataforma e possui versão web;
+- Ferramenta em ascensão;
+- Suporte ágil e de qualidade;
 
 ## Rocketseat
 
 Para conhecer um pouco mais sobre a Rocketseat, acompanhe-nos nas redes sociais:
 
 - [Site](https://rocketseat.com.br)
-- [Blog](https://rocketseat.com.br/blog)
+- [Blog](https://blog.rocketseat.com.br)
 - [Facebook](https://facebook.com/rocketseat)
 - [Youtube](https://www.youtube.com/rocketseat)
 - [Twitter](https://twitter.com/rocketseat)
 - [Instagram](https://www.instagram.com/rocketseat_oficial)
 - [Linkedin](https://www.linkedin.com/company/rocketseat)
 
-[Para participar da comunidade basta clicar aqui.](http://comunidade.rocketseat.com.br)
+---
+
+Made with 💜 by Rocketseat
