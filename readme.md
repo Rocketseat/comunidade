@@ -7,7 +7,6 @@
 ## Sumário
 
 - [O que é](#o-que-é)
-- [Gamificação](#gamificação)
 - [Como participar](#como-participar)
 - [Comportamento](#comportamento)
 - [Moderação](#moderação)
@@ -28,10 +27,6 @@ Para isso, oferecemos uma forma organizada de conectar pessoas com objetivos sem
 O networking é uma das ferramentas mais poderosas. Fique à vontade para colocá-la em prática aqui.
 
 Por mais que seja o foco central, a comunidade não se limita apenas em tópicos relacionados com código e tecnologia, mas quaisquer outros itens que colaborem com a evolução pessoal e profissional dos membros.
-
-## Gamificação
-
-[Clique aqui](gamification.md) para entender melhor nosso sistema de gamificação.
 
 ## Como participar
 
